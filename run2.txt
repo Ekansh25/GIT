@@ -3,8 +3,5 @@ first line added
 
 
 @RUN2 adding 1
-<<<<<<< HEAD
 @add by arpanet
-=======
 @phone branch adding
->>>>>>> phone
